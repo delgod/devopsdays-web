@@ -72,13 +72,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/delgod/"
     image: "mykola-marzhan.jpg"
 
-  - name: "Victoriia Korobkina"
-    employer: "Provectus"
-    linkedin: "https://www.linkedin.com/in/victoriia-korobkina/"
-    facebook:  "https://www.facebook.com/victoriia.korobkina"
-    bio: ""
-    image: "victoriia-korobkina.jpg"
-
   - name: "Daniel Maher"
     employer: "DataDog"
     twitter: "phrawzty"
